@@ -1,5 +1,7 @@
 
 Added CSS general Knowledge, Specificity, Box model.
+Added Media Queries | Positioning | Making Layouts |
+Flexbox & Grid | Bootstrap and Materielize.
 
 
 
